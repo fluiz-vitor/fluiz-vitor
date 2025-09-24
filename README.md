@@ -66,7 +66,7 @@ Ferramentas para coleta e análise de dados em larga escala
 ## 📫 Como me Encontrar
 
 - 🌐 **Website:** [luizvitor.com.br](https://luizvitor.com.br)
-- 💼 **LinkedIn:** [Conecte-se comigo]([https://linkedin.com/in/fluiz-vitor](https://www.linkedin.com/in/luiz-vitor-fernandes-849b87229/))
+- 💼 **LinkedIn:** [Conecte-se comigo]([https://www.linkedin.com/in/luiz-vitor-fernandes-849b87229/])
 - 📧 **Email:** [Entre em contato](mailto:luizvitor06@gmail.com)
 
 ## 🎯 Objetivos 2025
