@@ -5,7 +5,7 @@
 
 ## 👨‍💻 Sobre Mim
 
-Olá! Sou **Luiz Vitor**, desenvolvedor apaixonado por tecnologia e automação, baseado em **São Paulo, Brasil**. Com experiência em desenvolvimento web full stack e especialização em soluções de automação, web scraping e bot development.
+Olá! Sou **Luiz Vitor**, desenvolvedor apaixonado por tecnologia e automação.
 
 - 🌐 **Website:** [luizvitor.com.br](https://luizvitor.com.br)
 - 📍 **Localização:** São Paulo - Brasil
@@ -40,22 +40,16 @@ Olá! Sou **Luiz Vitor**, desenvolvedor apaixonado por tecnologia e automação,
 
 ## 🎯 Projetos em Destaque
 
-### 🏠 **Real Estate Scraper**
+### 🏠 **Scraper de Imóveis de Leilão**
 Sistema avançado de web scraping para coleta automatizada de dados de imóveis
 - **Tecnologias:** Python, Selenium, BeautifulSoup
 - **Características:** Navegação automática, coleta de dados em tempo real, tratamento de anti-bot
-- **Site alvo:** Portal Zuk (portalzuk.com.br)
-
-### 🎮 **Tibia Automation Suite**
-Conjunto de ferramentas e bots para automação no jogo Tibia
-- **Tecnologias:** Python, OpenCV, Computer Vision
-- **Funcionalidades:** Detecção de barras de vida/mana, automação de tarefas, mapeamento de coordenadas
-- **Especialidades:** Análise de imagem, detecção de cores, automação de gameplay
+- **Site alvo:** Portal Zuk e Caixa.
 
 ### 🤖 **Bot Development Framework**
 Framework personalizado para desenvolvimento de bots e automações
 - **Tecnologias:** Python, Machine Learning, Image Processing
-- **Aplicações:** Gaming, Web automation, Data collection
+- **Aplicações:** Gaming
 
 ### 📊 **Data Collection & Analysis Tools**
 Ferramentas para coleta e análise de dados em larga escala
@@ -79,38 +73,17 @@ Ferramentas para coleta e análise de dados em larga escala
 - 🎮 **Game Development:** Criação de ferramentas e automações para jogos
 - 🔍 **Computer Vision:** Processamento e análise de imagens para automação
 - 📊 **Data Science:** Análise e processamento de grandes volumes de dados
-- 🌐 **Web Development:** Desenvolvimento de aplicações web modernas
-
-## 💼 Experiência Profissional
-
-### Especialidades
-- **Web Scraping Avançado:** Desenvolvimento de scrapers robustos com contorno de medidas anti-bot
-- **Automação de Processos:** Criação de soluções automatizadas para otimização de workflows
-- **Computer Vision:** Implementação de sistemas de reconhecimento e análise de imagem
-- **Bot Development:** Desenvolvimento de bots inteligentes para diversos propósitos
-- **Full Stack Development:** Desenvolvimento completo de aplicações web
-
-## 🌟 Destaques Técnicos
-
-- ✅ **Selenium Expert:** Automação web avançada com tratamento de elementos dinâmicos
-- ✅ **Anti-Bot Bypass:** Técnicas avançadas para contornar sistemas de detecção
-- ✅ **Real-time Data Processing:** Processamento de dados em tempo real
-- ✅ **Computer Vision:** Análise de imagem para detecção de padrões e automação
-- ✅ **Scalable Architecture:** Desenvolvimento de sistemas escaláveis e robustos
 
 ## 📫 Como me Encontrar
 
 - 🌐 **Website:** [luizvitor.com.br](https://luizvitor.com.br)
-- 💼 **LinkedIn:** [Conecte-se comigo](https://linkedin.com/in/fluiz-vitor)
-- 📧 **Email:** [Entre em contato](mailto:contato@luizvitor.com.br)
-- 🐦 **Twitter:** [@fluiz_vitor](https://twitter.com/fluiz_vitor)
+- 💼 **LinkedIn:** [Conecte-se comigo]([https://linkedin.com/in/fluiz-vitor](https://www.linkedin.com/in/luiz-vitor-fernandes-849b87229/))
+- 📧 **Email:** [Entre em contato](mailto:luizvitor06@gmail.com)
 
 ## 🎯 Objetivos 2025
 
 - 🚀 Expandir projetos de automação e IA
-- 📚 Contribuir mais para projetos open source
 - 🤝 Colaborar em projetos inovadores de tecnologia
-- 🎓 Compartilhar conhecimento através de tutoriais e artigos
 
 ---
 
