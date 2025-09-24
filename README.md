@@ -40,37 +40,26 @@ Olá! Sou **Luiz Vitor**, desenvolvedor apaixonado por tecnologia e automação.
 
 ## 🎯 Projetos em Destaque
 
+### 🤖 **Bot Development Framework** (PRIVADO)
+Framework personalizado para desenvolvimento de bots e automações
+- **Tecnologias:** Python, Machine Learning, Image Processing
+- **Aplicações:** Gaming
+  
 ### 🏠 **Scraper de Imóveis de Leilão**
 Sistema avançado de web scraping para coleta automatizada de dados de imóveis
 - **Tecnologias:** Python, Selenium, BeautifulSoup
 - **Características:** Navegação automática, coleta de dados em tempo real, tratamento de anti-bot
 - **Site alvo:** Portal Zuk e Caixa.
 
-### 🤖 **Bot Development Framework**
-Framework personalizado para desenvolvimento de bots e automações
-- **Tecnologias:** Python, Machine Learning, Image Processing
-- **Aplicações:** Gaming
-
 ### 📊 **Data Collection & Analysis Tools**
 Ferramentas para coleta e análise de dados em larga escala
 - **Tecnologias:** Python, Pandas, Data Mining
 - **Funcionalidades:** Web scraping, processamento de dados, análise estatística
 
-## 📈 Estatísticas GitHub
-
-<div align="center">
-  
-![Estatísticas GitHub](https://github-readme-stats.vercel.app/api?username=fluiz-vitor&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true)
-
-![Linguagens mais usadas](https://github-readme-stats.vercel.app/api/top-langs/?username=fluiz-vitor&layout=compact&theme=tokyonight&langs_count=8)
-
-</div>
-
 ## 🎯 Áreas de Interesse
 
 - 🤖 **Automação & Bots:** Desenvolvimento de soluções automatizadas para diversos contextos
 - 🕷️ **Web Scraping:** Extração inteligente de dados de websites complexos
-- 🎮 **Game Development:** Criação de ferramentas e automações para jogos
 - 🔍 **Computer Vision:** Processamento e análise de imagens para automação
 - 📊 **Data Science:** Análise e processamento de grandes volumes de dados
 
