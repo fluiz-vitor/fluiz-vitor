@@ -49,11 +49,6 @@ Sistema avançado de web scraping para coleta automatizada de dados de imóveis
 - **Características:** Navegação automática, coleta de dados em tempo real, tratamento de anti-bot
 - **Site alvo:** Portal Zuk e Caixa.
 
-### 📊 **Data Collection & Analysis Tools**
-Ferramentas para coleta e análise de dados em larga escala
-- **Tecnologias:** Python, Pandas, Data Mining
-- **Funcionalidades:** Web scraping, processamento de dados, análise estatística
-
 ## 🎯 Áreas de Interesse
 
 - 🤖 **Automação & Bots:** Desenvolvimento de soluções automatizadas para diversos contextos
