@@ -8,7 +8,7 @@
 Olá! Sou **Luiz Vitor**, desenvolvedor apaixonado por tecnologia e automação.
 
 - 🌐 **Website:** [luizvitor.com.br](https://luizvitor.com.br)
-- 📍 **Localização:** São Paulo - Brasil
+-  📍  **Localização:** São Paulo - Brasil
 - 🎯 **Foco atual:** Desenvolvimento de automações, web scraping e projetos de IA
 - 💼 **Experiência:** Desenvolvimento Full Stack, Python, Web Automation
 
