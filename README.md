@@ -1,4 +1,4 @@
-# 🚀 Luiz Vitor - Desenvolvedor Full Stack & Automação
+# 🚀 Luiz Vitor
 
 [![GitHub followers](https://img.shields.io/github/followers/fluiz-vitor?label=Followers&style=social)](https://github.com/fluiz-vitor)
 [![GitHub stars](https://img.shields.io/github/stars/fluiz-vitor?label=Stars&style=social)](https://github.com/fluiz-vitor)
